@@ -1,5 +1,9 @@
 # what_is_the_correct_number
 
+in this simple game to find correct number 
+i use getx in state mangement,
+i use resable widgets 
+i create two theme 
 
 
 
